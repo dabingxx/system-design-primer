@@ -69,13 +69,6 @@ Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address
 | Add a system design question | [Contribute](#contributing) |
 
 ## Object-oriented design interview questions with solutions
-
-> Common object-oriented design interview questions with sample discussions, code, and diagrams.
->
-> Solutions linked to content in the `solutions/` folder.
-
->**Note: This section is under development**
-
 | Question | |
 |---|---|
 | Design a hash map | [Solution](solutions/object_oriented_design/hash_table/hash_map.ipynb)  |
@@ -87,7 +80,7 @@ Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address
 | Design a circular array | [Contribute](#contributing)  |
 | Add an object-oriented design question | [Contribute](#contributing) |
 
-## System design topics: start here
+# System design topics: start here
 <p align="center">
   <img src="images/jrUBAF7.png">
   <br/>
@@ -176,39 +169,14 @@ Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address
 * [License](#license)
 
 
-### Step 1: Review the scalability video lecture
+### Step 1: [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
-[Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
-
-* Topics covered:
-    * Vertical scaling
-    * Horizontal scaling
-    * Caching
-    * Load balancing
-    * Database replication
-    * Database partitioning
-
-### Step 2: Review the scalability article
-
-[Scalability](http://www.lecloud.net/tagged/scalability/chrono)
-
+### Step 2: Review the [Scalability article](http://www.lecloud.net/tagged/scalability/chrono)
 * Topics covered:
     * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
     * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
     * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
     * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
-
-### Next steps
-
-Next, we'll look at high-level trade-offs:
-
-* **Performance** vs **scalability**
-* **Latency** vs **throughput**
-* **Availability** vs **consistency**
-
-Keep in mind that **everything is a trade-off**.
-
-Then we'll dive into more specific topics such as DNS, CDNs, and load balancers.
 
 ## Performance vs scalability
 
