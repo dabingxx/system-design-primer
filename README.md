@@ -1,10 +1,5 @@
 # The System Design Primer
-
-<p align="center">
-  <img src="images/jj3A5N8.png">
-  <br/>
-</p>
-
+My own copy to record what is done and what is not done.
 
 ### Prep for the system design interview
 
@@ -232,54 +227,6 @@ Check out the following links to get a better idea of what to expect:
 | Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) |
 | Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
 | Add a system design question | [Contribute](#contributing) |
-
-### Design Pastebin.com (or Bit.ly)
-
-[View exercise and solution](solutions/system_design/pastebin/README.md)
-
-![Imgur](images/4edXG0T.png)
-
-### Design the Twitter timeline and search (or Facebook feed and search)
-
-[View exercise and solution](solutions/system_design/twitter/README.md)
-
-![Imgur](images/jrUBAF7.png)
-
-### Design a web crawler
-
-[View exercise and solution](solutions/system_design/web_crawler/README.md)
-
-![Imgur](images/bWxPtQA.png)
-
-### Design Mint.com
-
-[View exercise and solution](solutions/system_design/mint/README.md)
-
-![Imgur](images/V5q57vU.png)
-
-### Design the data structures for a social network
-
-[View exercise and solution](solutions/system_design/social_graph/README.md)
-
-![Imgur](images/cdCv5g7.png)
-
-### Design a key-value store for a search engine
-
-[View exercise and solution](solutions/system_design/query_cache/README.md)
-
-![Imgur](images/4j99mhe.png)
-
-### Design Amazon's sales ranking by category feature
-
-[View exercise and solution](solutions/system_design/sales_rank/README.md)
-
-![Imgur](images/MzExP06.png)
-
-### Design a system that scales to millions of users on AWS
-
-[View exercise and solution](solutions/system_design/scaling_aws/README.md)
-
-![Imgur](images/jj3A5N8.png)
 
 ## Object-oriented design interview questions with solutions
 
@@ -1675,66 +1622,6 @@ Handy metrics based on numbers above:
 | WhatsApp | [The WhatsApp architecture Facebook bought for $19 billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html) |
 | YouTube | [YouTube scalability](https://www.youtube.com/watch?v=w5WVu624fY8)<br/>[YouTube architecture](http://highscalability.com/youtube-architecture) |
 
-### Company engineering blogs
-
-> Architectures for companies you are interviewing with.
->
-> Questions you encounter might be from the same domain.
-
-* [Airbnb Engineering](http://nerds.airbnb.com/)
-* [Atlassian Developers](https://developer.atlassian.com/blog/)
-* [AWS Blog](https://aws.amazon.com/blogs/aws/)
-* [Bitly Engineering Blog](http://word.bitly.com/)
-* [Box Blogs](https://blog.box.com/blog/category/engineering)
-* [Cloudera Developer Blog](http://blog.cloudera.com/)
-* [Dropbox Tech Blog](https://tech.dropbox.com/)
-* [Engineering at Quora](https://www.quora.com/q/quoraengineering)
-* [Ebay Tech Blog](http://www.ebaytechblog.com/)
-* [Evernote Tech Blog](https://blog.evernote.com/tech/)
-* [Etsy Code as Craft](http://codeascraft.com/)
-* [Facebook Engineering](https://www.facebook.com/Engineering)
-* [Flickr Code](http://code.flickr.net/)
-* [Foursquare Engineering Blog](http://engineering.foursquare.com/)
-* [GitHub Engineering Blog](http://githubengineering.com/)
-* [Google Research Blog](http://googleresearch.blogspot.com/)
-* [Groupon Engineering Blog](https://engineering.groupon.com/)
-* [Heroku Engineering Blog](https://engineering.heroku.com/)
-* [Hubspot Engineering Blog](http://product.hubspot.com/blog/topic/engineering)
-* [High Scalability](http://highscalability.com/)
-* [Instagram Engineering](http://instagram-engineering.tumblr.com/)
-* [Intel Software Blog](https://software.intel.com/en-us/blogs/)
-* [Jane Street Tech Blog](https://blogs.janestreet.com/category/ocaml/)
-* [LinkedIn Engineering](http://engineering.linkedin.com/blog)
-* [Microsoft Engineering](https://engineering.microsoft.com/)
-* [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/)
-* [Netflix Tech Blog](http://techblog.netflix.com/)
-* [Paypal Developer Blog](https://medium.com/paypal-engineering)
-* [Pinterest Engineering Blog](https://medium.com/@Pinterest_Engineering)
-* [Reddit Blog](http://www.redditblog.com/)
-* [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/)
-* [Slack Engineering Blog](https://slack.engineering/)
-* [Spotify Labs](https://labs.spotify.com/)
-* [Twilio Engineering Blog](http://www.twilio.com/engineering)
-* [Twitter Engineering](https://blog.twitter.com/engineering/)
-* [Uber Engineering Blog](http://eng.uber.com/)
-* [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
-* [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
-* [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
-
-#### Source(s) and further reading
-
-Looking to add a blog?  To avoid duplicating work, consider adding your company blog to the following repo:
-
-* [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-
-## Under development
-
-Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
-
-* Distributed computing with MapReduce
-* Consistent hashing
-* Scatter gather
-* [Contribute](#contributing)
 
 ## Credits
 
