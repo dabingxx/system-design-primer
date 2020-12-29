@@ -1,59 +1,11 @@
 # The System Design Primer
 My own copy to record what is done and what is not done.
-
-### Prep for the system design interview
-
-* [x] [Study guide](#study-guide)
+> Todo & Index
 * [ ] To learn Anki flashcards from the original site
-* [How to approach a system design interview question](#how-to-approach-a-system-design-interview-question)
-* [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
-* [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
-* [Additional system design interview questions](#additional-system-design-interview-questions)
-
-## How to approach a system design interview question
-
-* [System design template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
-
-### Step 1: Outline use cases, constraints, and assumptions
-
-Gather requirements and scope the problem.  Ask questions to clarify use cases and constraints.  Discuss assumptions.
-
-* Who is going to use it?
-* How are they going to use it?
-* How many users are there?
-* What does the system do?
-* What are the inputs and outputs of the system?
-* How much data do we expect to handle?
-* How many requests per second do we expect?
-* What is the expected read to write ratio?
-
-### Step 2: Create a high level design
-
-Outline a high level design with all important components.
-
-* Sketch the main components and connections
-* Justify your ideas
-
-### Step 3: Design core components
-
-Dive into details for each core component.  For example, if you were asked to [design a url shortening service](solutions/system_design/pastebin/README.md), discuss:
-
-* API and object-oriented design
-
-### Step 4: Scale the design
-
-Identify and address bottlenecks, given the constraints.  For example, do you need the following to address scalability issues?
-
-* Load balancer
-* Horizontal scaling
-* Caching
-* Database sharding
-
-Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address bottlenecks using [principles of scalable system design](#index-of-system-design-topics).
-
-### Back-of-the-envelope calculations
-* [Powers of two table](#powers-of-two-table)
-* [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)
+* [ ] [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
+* [ ] [System design topics](#system-design-topics)
+* [ ] [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
+* [ ] [Additional system design interview questions](#additional-system-design-interview-questions)
 
 ## System design interview questions with solutions
 | Question | |
@@ -68,28 +20,15 @@ Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address
 | Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
 | Add a system design question | [Contribute](#contributing) |
 
-## Object-oriented design interview questions with solutions
-| Question | |
-|---|---|
-| Design a hash map | [Solution](solutions/object_oriented_design/hash_table/hash_map.ipynb)  |
-| Design a least recently used cache | [Solution](solutions/object_oriented_design/lru_cache/lru_cache.ipynb)  |
-| Design a call center | [Solution](solutions/object_oriented_design/call_center/call_center.ipynb)  |
-| Design a deck of cards | [Solution](solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb)  |
-| Design a parking lot | [Solution](solutions/object_oriented_design/parking_lot/parking_lot.ipynb)  |
-| Design a chat server | [Solution](solutions/object_oriented_design/online_chat/online_chat.ipynb)  |
-| Design a circular array | [Contribute](#contributing)  |
-| Add an object-oriented design question | [Contribute](#contributing) |
-
-# System design topics: start here
+# System design topics
 <p align="center">
   <img src="images/jrUBAF7.png">
   <br/>
 </p>
 
-* [System design topics: start here](#system-design-topics-start-here)
-    * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
+* [System design topics](#system-design-topics)
+    * [Step 1: Review the scalability video lecture](#step-1-scalability-lecture-at-harvard)
     * [Step 2: Review the scalability article](#step-2-review-the-scalability-article)
-    * [Next steps](#next-steps)
 * [Performance vs scalability](#performance-vs-scalability)
 * [Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
@@ -1413,6 +1352,20 @@ Handy metrics based on numbers above:
 * [Latency numbers every programmer should know - 2](https://gist.github.com/hellerbarde/2843375)
 * [Designs, lessons, and advice from building large distributed systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
+
+
+## Object-oriented design interview questions with solutions
+| Question | |
+|---|---|
+| Design a hash map | [Solution](solutions/object_oriented_design/hash_table/hash_map.ipynb)  |
+| Design a least recently used cache | [Solution](solutions/object_oriented_design/lru_cache/lru_cache.ipynb)  |
+| Design a call center | [Solution](solutions/object_oriented_design/call_center/call_center.ipynb)  |
+| Design a deck of cards | [Solution](solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb)  |
+| Design a parking lot | [Solution](solutions/object_oriented_design/parking_lot/parking_lot.ipynb)  |
+| Design a chat server | [Solution](solutions/object_oriented_design/online_chat/online_chat.ipynb)  |
+| Design a circular array | [Contribute](#contributing)  |
+| Add an object-oriented design question | [Contribute](#contributing) |
+
 
 ### Additional system design interview questions
 
