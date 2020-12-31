@@ -6,6 +6,7 @@ My own copy to record what is done and what is not done.
 * [ ] [System design topics](#system-design-topics)
 * [ ] [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
 * [ ] [Additional system design interview questions](#additional-system-design-interview-questions)
+* [Latency Cheetsheet](#Handy_metrics_based_on_numbers_above)
 
 ## System design interview questions with solutions
 | Question | |
@@ -1333,7 +1334,7 @@ Notes
 1 ms = 10^-3 seconds = 1,000 us = 1,000,000 ns
 ```
 
-Handy metrics based on numbers above:
+#### Handy metrics based on numbers above:
 
 * Read sequentially from HDD at 30 MB/s
 * Read sequentially from 1 Gbps Ethernet at 100 MB/s
