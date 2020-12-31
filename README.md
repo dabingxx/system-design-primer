@@ -4,9 +4,11 @@ My own copy to record what is done and what is not done.
 * [ ] To learn Anki flashcards from the original site
 * [ ] [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
 * [ ] [System design topics](#system-design-topics)
-* [ ] [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
-* [ ] [Additional system design interview questions](#additional-system-design-interview-questions)
-* [Latency Cheetsheet](#Handy_metrics_based_on_numbers_above)
+  * [ ] [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
+  * [ ] [Additional system design interview questions](#additional-system-design-interview-questions)
+
+> Check Sheet
+* [Latency Cheetsheet](#handy-metrics-based-on-numbers-above)
 
 ## System design interview questions with solutions
 | Question | |
