@@ -10,20 +10,6 @@ My own copy to record what is done and what is not done.
 > Check Sheet
 * [Latency Cheetsheet](#handy-metrics-based-on-numbers-above)
 
-## System design interview questions with solutions
-| Question | |
-|---|---|
-| Design Pastebin.com (or Bit.ly) | [Solution](solutions/system_design/pastebin/README.md) |
-| Design the Twitter timeline and search (or Facebook feed and search) | [Solution](solutions/system_design/twitter/README.md) |
-| Design a web crawler | [Solution](solutions/system_design/web_crawler/README.md) |
-| Design Mint.com | [Solution](solutions/system_design/mint/README.md) |
-| Design the data structures for a social network | [Solution](solutions/system_design/social_graph/README.md) |
-| Design a key-value store for a search engine | [Solution](solutions/system_design/query_cache/README.md) |
-| Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) |
-| Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
-| Design Yelp (2 Dimension Quadtree) | [Solution Part1](https://medium.com/swlh/design-a-proximity-server-like-nearby-or-yelp-part-1-c8fe2951c534), [Part2](https://codeburst.io/design-a-proximity-server-like-yelp-part-2-d430879203a5) |
-| Add a system design question | [Contribute](#contributing) |
-
 # System design topics
 <p align="center">
   <img src="images/jrUBAF7.png">
