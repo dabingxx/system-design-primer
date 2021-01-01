@@ -21,6 +21,7 @@ My own copy to record what is done and what is not done.
 | Design a key-value store for a search engine | [Solution](solutions/system_design/query_cache/README.md) |
 | Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) |
 | Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
+| Design Yelp (2 Dimension Quadtree) | [Solution Part1](https://medium.com/swlh/design-a-proximity-server-like-nearby-or-yelp-part-1-c8fe2951c534), [Part2](https://codeburst.io/design-a-proximity-server-like-yelp-part-2-d430879203a5) |
 | Add a system design question | [Contribute](#contributing) |
 
 # System design topics
