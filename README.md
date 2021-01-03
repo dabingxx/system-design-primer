@@ -2,10 +2,10 @@
 My own copy to record what is done and what is not done.
 > Todo & Index
 * [ ] To learn Anki flashcards from the original site
-* [ ] [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
-* [ ] [System design topics](#system-design-topics)
-  * [ ] [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
-  * [ ] [Additional system design interview questions](#additional-system-design-interview-questions)
+* [x] [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
+* [x] [System design topics](#system-design-topics)
+  * [x] [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
+  * [x] [Additional system design interview questions](#additional-system-design-interview-questions)
 
 > Check Sheet
 * [Latency Cheetsheet](#handy-metrics-based-on-numbers-above)
